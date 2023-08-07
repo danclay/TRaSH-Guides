@@ -363,15 +363,6 @@
       "fields": {
         "value": "\\[Yuki\\]|-Yuki\\b"
       }
-    },
-    {
-      "name": "L0ST",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(L0ST)\\b"
-      }
     }
   ]
 }
