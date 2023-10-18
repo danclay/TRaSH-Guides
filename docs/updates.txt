@@ -1,3 +1,18 @@
+# 2023-10-15 19:00
+- [fix:(radarr): Remove SDR condition from UHD Bluray Tier 1-3](https://github.com/TRaSH-Guides/Guides/pull/1589)
+- [feat (Guides): Added new qBittorrent Tips page for known working themes](https://github.com/TRaSH-Guides/Guides/pull/1587)
+
+# 2023-10-15 16:15
+- [feat(radarr): add RlsGrp LoRD to HD Bluray Tier 03](https://github.com/TRaSH-Guides/Guides/pull/1586)
+- [fix(radarr): Remove RlsGrp SLOT from CF LQ](https://github.com/TRaSH-Guides/Guides/pull/1585)
+- [fix(starr): add RlsGrp BlackBit to Bad Dual Groups](https://github.com/TRaSH-Guides/Guides/pull/1584)
+- [fix(starr): BR-DISK CF regex](https://github.com/TRaSH-Guides/Guides/pull/1578)
+
+# 2023-09-29 20:10
+- [feat(guides): Add Python venv method for the Qbt mover script](https://github.com/TRaSH-Guides/Guides/pull/1567)
+- [feat(guides): SQP-1 score change for DTS-ES Custom Format](https://github.com/TRaSH-Guides/Guides/pull/1575)
+- [feat(guides): Update features list for Recyclarr](https://github.com/TRaSH-Guides/Guides/pull/1576)
+
 # 2023-09-22 18:15
 - [fix(starr): Remove RlsGrps from CF TrueHD and TrueHD Atmos](https://github.com/TRaSH-Guides/Guides/pull/1553)
 - [fix(starr): inaccurate Pahe regex](https://github.com/TRaSH-Guides/Guides/pull/1554)
