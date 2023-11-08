@@ -79,9 +79,10 @@ I also made 3 guides related to this one.
 | [MPEG2](#mpeg2)                | [Obfuscated](#obfuscated)           | [VFI](#vfi)                   | [FR HD Bluray Tier 02](#fr-hd-bluray-tier-02)   |
 | [Dutch Groups](#dutch-groups)  | [Retags](#retags)                   | [VF2](#vf2)                   | [FR WEB Tier 01](#fr-web-tier-01)               |
 | [FreeLeech](#freeleech)        | [Scene](#scene)                     | [VFQ](#vfq)                   | [FR WEB Tier 02](#fr-web-tier-02)               |
-|                                | [x265 (no HDR/DV)](#x265-no-hdrdv)  | [VQ](#vq)                     | [FR Scene Groups](#fr-scene-groups)             |
-|                                | [AV1](#av1)                         | [VFB](#vfb)                   | [FR LQ](#fr-lq)                                 |
-|                                | [SDR](#sdr)                         | [VOSTFR](#vostfr)             |                                                 |
+|                                | [x265 (no HDR/DV)](#x265-no-hdrdv)  | [VOQ](#voq)                   | [FR Scene Groups](#fr-scene-groups)             |
+|                                | [AV1](#av1)                         | [VQ](#vq)                     | [FR LQ](#fr-lq)                                 |
+|                                | [SDR](#sdr)                         | [VFB](#vfb)                   |                                                 |
+|                                | [SDR (no WEBDL)](#sdr-no-webdl)     | [VOSTFR](#vostfr)             |                                                 |
 |                                | [DV (FEL)](#dv-fel)                 | [FanSUB](#fansub)             |                                                 |
 |                                | [Line/Mic Dubbed](#linemic-dubbed)  | [FastSUB](#fastsub)           |                                                 |
 |                                | [HFR](#hfr)                         |                               |                                                 |
@@ -1248,12 +1249,28 @@ I also made 3 guides related to this one.
 
 ??? question "SDR - [Click to show/hide]"
 
-    - This will help to prevent to grab UHD/4k releases without HDR Formats.
+    - This will prevent grabbing UHD/4k releases without HDR Formats.
 
 ??? example "JSON - [Click to show/hide]"
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/radarr/cf/sdr.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### SDR (no WEBDL)
+
+??? question "SDR (no WEBDL) - [Click to show/hide]"
+
+    - This will prevent grabbing UHD/4k Remux and Bluray encode releases without HDR Formats - i.e., SDR WEB releases will still be allowed. 4K SDR WEB releases can look better than the 1080p version, owing to improved bitrates.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/sdr-no-webdl.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
@@ -2474,6 +2491,22 @@ I also made 3 guides related to this one.
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/radarr/cf/french-vfq.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### VOQ
+
+??? question "VOQ - [Click to show/hide]"
+
+    Quebec Original Version.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/french-voq.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
