@@ -34,38 +34,42 @@ I also made 3 guides related to this one.
 
 | Audio Advanced #1                     | Audio Advanced #2         | Audio Channels               | HDR Formats                       |
 | ------------------------------------- | ------------------------- | ---------------------------- | --------------------------------- |
-| [TrueHD ATMOS](#truehd-atmos)         | [FLAC](#flac)             | [1.0 Mono](#10-mono)         | [DV HDR10](#dv-hdr10)             |
-| [DTS X](#dts-x)                       | [PCM](#pcm)               | [2.0 Stereo](#20-stereo)     | [DV](#dv)                         |
-| [ATMOS (undefined)](#atmos-undefined) | [DTS-HD HRA](#dts-hd-hra) | [3.0 Sound](#30-sound)       | [DV HLG](#dv-hlg)                 |
-| [DD+ ATMOS](#ddplus-atmos)            | [AAC](#aac)               | [4.0 Sound](#40-sound)       | [DV SDR](#dv-sdr)                 |
-| [TrueHD](#truehd)                     | [DD](#dd)                 | [5.1 Surround](#51-surround) | [HDR10+](#hdr10plus)              |
-| [DTS-HD MA](#dts-hd-ma)               | [MP3](#mp3)               | [6.1 Surround](#61-surround) | [HDR10](#hdr10)                   |
-| [DD+](#ddplus)                        | [Opus](#opus)             | [7.1 Surround](#71-surround) | [HDR](#hdr)                       |
-| [DTS-ES](#dts-es)                     |                           | [9.1 Surround](#91-surround) | [HDR (undefined)](#hdr-undefined) |
-| [DTS](#dts)                           |                           |                              | [PQ](#pq)                         |
+| [TrueHD ATMOS](#truehd-atmos)         | [FLAC](#flac)             | [1.0 Mono](#10-mono)         | [DV HDR10Plus](#dv-hdr10plus)     |
+| [DTS X](#dts-x)                       | [PCM](#pcm)               | [2.0 Stereo](#20-stereo)     | [DV HDR10](#dv-hdr10)             |
+| [ATMOS (undefined)](#atmos-undefined) | [DTS-HD HRA](#dts-hd-hra) | [3.0 Sound](#30-sound)       | [DV](#dv)                         |
+| [DD+ ATMOS](#ddplus-atmos)            | [AAC](#aac)               | [4.0 Sound](#40-sound)       | [DV HLG](#dv-hlg)                 |
+| [TrueHD](#truehd)                     | [DD](#dd)                 | [5.1 Surround](#51-surround) | [DV SDR](#dv-sdr)                 |
+| [DTS-HD MA](#dts-hd-ma)               | [MP3](#mp3)               | [6.1 Surround](#61-surround) | [HDR10+](#hdr10plus)              |
+| [DD+](#ddplus)                        | [Opus](#opus)             | [7.1 Surround](#71-surround) | [HDR10](#hdr10)                   |
+| [DTS-ES](#dts-es)                     |                           | [9.1 Surround](#91-surround) | [HDR](#hdr)                       |
+| [DTS](#dts)                           |                           |                              | [HDR (undefined)](#hdr-undefined) |
+|                                       |                           |                              | [PQ](#pq)                         |
 |                                       |                           |                              | [HLG](#hlg)                       |
 
 ------
 
-| Movie Versions                                | Unwanted              | HQ Release Groups                         | Streaming Services         |
-| --------------------------------------------- | --------------------- | ----------------------------------------- | -------------------------- |
-| [Hybrid](#hybrid)                             | [BR-DISK](#br-disk)   | [Remux Tier 01](#remux-tier-01)           | [Amazon](#amzn)            |
-| [Remaster](#remaster)                         | [LQ](#lq)             | [Remux Tier 02](#remux-tier-02)           | [Apple TV+](#atvp)         |
-| [4K Remaster](#4k-remaster)                   | [3D](#3d)             | [Remux Tier 03](#remux-tier-03)           | [Criterion Channel](#crit) |
-| [Special Edition](#special-edition)           | [x265 (HD)](#x265-hd) | [UHD Bluray Tier 01](#uhd-bluray-tier-01) | [Disney+](#dsnp)           |
-| [Criterion Collection](#criterion-collection) | [Upscaled](#upscaled) | [UHD Bluray Tier 02](#uhd-bluray-tier-02) | [HBO](#hbo)                |
-| [Masters of Cinema](#masters-of-cinema)       | [Extras](#extras)     | [UHD Bluray Tier 03](#uhd-bluray-tier-03) | [HBO Max](#hmax)           |
-| [Vinegar Syndrome](#vinegar-syndrome)         |                       | [HD Bluray Tier 01](#hd-bluray-tier-01)   | [Max](#max)                |
-| [Theatrical Cut](#theatrical-cut)             |                       | [HD Bluray Tier 02](#hd-bluray-tier-02)   | [Hulu](#hulu)              |
-| [IMAX](#imax)                                 |                       | [HD Bluray Tier 03](#hd-bluray-tier-03)   | [Netflix](#nf)             |
-| [IMAX Enhanced](#imax-enhanced)               |                       | [WEB Tier 01](#web-tier-01)               | [Peacock TV](#pcok)        |
-| [Open Matte](#open-matte)                     |                       | [WEB Tier 02](#web-tier-02)               | [Paramount+](#pmtp)        |
-|                                               |                       | [WEB Tier 03](#web-tier-03)               | [Movies Anywhere](#ma)     |
-|                                               |                       |                                           | [Pathe Thuis](#pathe)      |
-|                                               |                       |                                           | [Bravia Core](#bcore)      |
-|                                               |                       |                                           | [Stan](#stan)              |
-|                                               |                       |                                           | [Crave](#crav)             |
-|                                               |                       |                                           | [OViD](#ovid)              |
+| Movie Versions                                | Unwanted                                | HQ Release Groups                         | Streaming Services         |
+| --------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------------------------- |
+| [Hybrid](#hybrid)                             | [BR-DISK](#br-disk)                     | [Remux Tier 01](#remux-tier-01)           | [Amazon](#amzn)            |
+| [Remaster](#remaster)                         | [LQ](#lq)                               | [Remux Tier 02](#remux-tier-02)           | [Apple TV+](#atvp)         |
+| [4K Remaster](#4k-remaster)                   | [LQ (Release Title)](#lq-release-title) | [Remux Tier 03](#remux-tier-03)           | [Criterion Channel](#crit) |
+| [Special Edition](#special-edition)           | [3D](#3d)                               | [UHD Bluray Tier 01](#uhd-bluray-tier-01) | [Disney+](#dsnp)           |
+| [Criterion Collection](#criterion-collection) | [x265 (HD)](#x265-hd)                   | [UHD Bluray Tier 02](#uhd-bluray-tier-02) | [HBO](#hbo)                |
+| [Masters of Cinema](#masters-of-cinema)       | [Upscaled](#upscaled)                   | [UHD Bluray Tier 03](#uhd-bluray-tier-03) | [HBO Max](#hmax)           |
+| [Vinegar Syndrome](#vinegar-syndrome)         | [Extras](#extras)                       | [HD Bluray Tier 01](#hd-bluray-tier-01)   | [Max](#max)                |
+| [Theatrical Cut](#theatrical-cut)             |                                         | [HD Bluray Tier 02](#hd-bluray-tier-02)   | [Hulu](#hulu)              |
+| [IMAX](#imax)                                 |                                         | [HD Bluray Tier 03](#hd-bluray-tier-03)   | [Netflix](#nf)             |
+| [IMAX Enhanced](#imax-enhanced)               |                                         | [WEB Tier 01](#web-tier-01)               | [Peacock TV](#pcok)        |
+| [Open Matte](#open-matte)                     |                                         | [WEB Tier 02](#web-tier-02)               | [Paramount+](#pmtp)        |
+|                                               |                                         | [WEB Tier 03](#web-tier-03)               | [Movies Anywhere](#ma)     |
+|                                               |                                         |                                           | [Pathe Thuis](#pathe)      |
+|                                               |                                         |                                           | [Bravia Core](#bcore)      |
+|                                               |                                         |                                           | [Stan](#stan)              |
+|                                               |                                         |                                           | [Crave](#crav)             |
+|                                               |                                         |                                           | [OViD](#ovid)              |
+|                                               |                                         |                                           | [FOD](#fod)                |
+|                                               |                                         |                                           | [TVer](#tver)              |
+|                                               |                                         |                                           | [U-NEXT](#u-next)          |
 
 ------
 
@@ -83,10 +87,11 @@ I also made 3 guides related to this one.
 |                                | [AV1](#av1)                         | [VQ](#vq)                     | [FR LQ](#fr-lq)                                 |
 |                                | [SDR](#sdr)                         | [VFB](#vfb)                   |                                                 |
 |                                | [SDR (no WEBDL)](#sdr-no-webdl)     | [VOSTFR](#vostfr)             |                                                 |
-|                                | [DV (FEL)](#dv-fel)                 | [FanSUB](#fansub)             |                                                 |
+|                                | [DV (Disk)](#dv-disk)               | [FanSUB](#fansub)             |                                                 |
 |                                | [Line/Mic Dubbed](#linemic-dubbed)  | [FastSUB](#fastsub)           |                                                 |
 |                                | [HFR](#hfr)                         |                               |                                                 |
 |                                | [VP9](#vp9)                         |                               |                                                 |
+|                                | [Internal](#internal)               |                               |                                                 |
 
 ------
 
@@ -125,9 +130,11 @@ I also made 3 guides related to this one.
 
 ### DTS X
 
-??? question "DTS X - [Click to show/hide]"
+??? question "DTS:X - [Click to show/hide]"
 
-    DTS:X is an object-based audio codec, which aims to create a multi-dimensional sound that “moves around you like it would in real life”
+    [DTS:X is an object-based audio codec](https://www.whathifi.com/advice/dtsx-what-it-how-can-you-get-it), which aims to create a multi-dimensional sound that “moves around you like it would in real life”.
+    You may think that sounds a lot like Dolby Atmos, and you’d be right. But where DTS:X differs lies in the required speaker configuration. While Dolby Atmos requires you to add extra overhead channels to your 5.1 or 7.1 setup, DTS:X works with standard surround speaker setups – just like the one you might already have at home. It can support up to 32 speaker locations and up to an 11.2-channel system.
+    DTS:X like other higher quality DTS formats (e.g. DTS-HD MA) is lossless.
 
 ??? example "JSON - [Click to show/hide]"
 
@@ -499,6 +506,26 @@ I also made 3 guides related to this one.
 ------
 
 ## HDR Formats
+
+------
+
+### DV HDR10Plus
+
+<sub>Dolby Vision = DoVi = DV</sub>
+
+??? question "DV HDR10 - [Click to show/hide]"
+
+    Dolby Vision is a content mastering and delivery format similar to the HDR10 media profile.
+
+    Dolby Vision is a proprietary, dynamic HDR format developed by Dolby Labs. By adjusting the picture on a scene-by-scene (and even frame-by-frame) basis, it lets you see more detail with better color accuracy. It is constantly making adjustments so that each image on the screen is optimized.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/dv-hdr10plus.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
 
 ------
 
@@ -960,6 +987,24 @@ I also made 3 guides related to this one.
 
 ------
 
+### LQ (Release Title)
+
+<sub>Low Quality Releases = LQ</sub>
+
+??? question "LQ (Release Title)- [Click to show/hide]"
+
+    A collection of terms seen in the titles of Low Quality releases that are not captured by using a release group name.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/lq-release-title.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
 ### 3D
 
 ??? question "3D - [Click to show/hide]"
@@ -1245,6 +1290,23 @@ I also made 3 guides related to this one.
 
 ------
 
+### Internal
+
+??? question "Internal - [Click to show/hide]"
+
+    - For those that prefer scene releases may want to boost internals as they generally have higher settings that may not conform to ruleset.
+    - In some rare cases P2P use also INTERNAL.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/internal.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
 ### SDR
 
 ??? question "SDR - [Click to show/hide]"
@@ -1277,16 +1339,16 @@ I also made 3 guides related to this one.
 
 ------
 
-### DV FEL
+### DV (Disk)
 
-??? question "DV (FEL) - [Click to show/hide]"
+??? question "DV (Disk) - [Click to show/hide]"
 
     - This will boost the score for Dolby Vision Releases using the original full quality Dolby Vision layer from the disc release to replace the old WEBDL HYBRID release.
 
 ??? example "JSON - [Click to show/hide]"
 
     ```json
-    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/dv-fel.json' %]][[% endfilter %]]
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/dv-disk.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
@@ -1965,6 +2027,64 @@ I also made 3 guides related to this one.
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/radarr/cf/ovid.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### FOD
+
+<sub>FOD</sub>
+
+??? question "FOD - [Click to show/hide]"
+
+    - Fuji Television On Demand
+    - [From Wikipedia, the free encyclopedia](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89){:target="_blank" rel="noopener noreferrer"}
+    - [FOD Website](https://fod-sp.fujitv.co.jp){:target="_blank" rel="noopener noreferrer"}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/fod.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### TVer
+
+<sub>TVer</sub>
+
+??? question "TVer - [Click to show/hide]"
+
+    - [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/TVer_(streaming_service)){:target="_blank" rel="noopener noreferrer"}
+    - [TVer Website](https://tver.jp){:target="_blank" rel="noopener noreferrer"}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/tver.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### U-NEXT
+
+<sub>U-NEXT</sub>
+
+??? question "U-NEXT - [Click to show/hide]"
+
+    - [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/U-Next){:target="_blank" rel="noopener noreferrer"}
+    - [U-NEXT Website](https://video.unext.jp){:target="_blank" rel="noopener noreferrer"}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/u-next.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
