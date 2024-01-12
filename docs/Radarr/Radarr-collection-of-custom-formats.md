@@ -34,7 +34,7 @@ I also made 3 guides related to this one.
 
 | Audio Advanced #1                     | Audio Advanced #2         | Audio Channels               | HDR Formats                       |
 | ------------------------------------- | ------------------------- | ---------------------------- | --------------------------------- |
-| [TrueHD ATMOS](#truehd-atmos)         | [FLAC](#flac)             | [1.0 Mono](#10-mono)         | [DV HDR10Plus](#dv-hdr10plus)     |
+| [TrueHD ATMOS](#truehd-atmos)         | [FLAC](#flac)             | [1.0 Mono](#10-mono)         | [DV HDR10+](#dv-hdr10plus)        |
 | [DTS X](#dts-x)                       | [PCM](#pcm)               | [2.0 Stereo](#20-stereo)     | [DV HDR10](#dv-hdr10)             |
 | [ATMOS (undefined)](#atmos-undefined) | [DTS-HD HRA](#dts-hd-hra) | [3.0 Sound](#30-sound)       | [DV](#dv)                         |
 | [DD+ ATMOS](#ddplus-atmos)            | [AAC](#aac)               | [4.0 Sound](#40-sound)       | [DV HLG](#dv-hlg)                 |
@@ -50,48 +50,50 @@ I also made 3 guides related to this one.
 
 | Movie Versions                                | Unwanted                                | HQ Release Groups                         | Streaming Services         |
 | --------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------------------------- |
-| [Hybrid](#hybrid)                             | [BR-DISK](#br-disk)                     | [Remux Tier 01](#remux-tier-01)           | [Amazon](#amzn)            |
-| [Remaster](#remaster)                         | [LQ](#lq)                               | [Remux Tier 02](#remux-tier-02)           | [Apple TV+](#atvp)         |
-| [4K Remaster](#4k-remaster)                   | [LQ (Release Title)](#lq-release-title) | [Remux Tier 03](#remux-tier-03)           | [Criterion Channel](#crit) |
-| [Special Edition](#special-edition)           | [3D](#3d)                               | [UHD Bluray Tier 01](#uhd-bluray-tier-01) | [Disney+](#dsnp)           |
-| [Criterion Collection](#criterion-collection) | [x265 (HD)](#x265-hd)                   | [UHD Bluray Tier 02](#uhd-bluray-tier-02) | [HBO](#hbo)                |
-| [Masters of Cinema](#masters-of-cinema)       | [Upscaled](#upscaled)                   | [UHD Bluray Tier 03](#uhd-bluray-tier-03) | [HBO Max](#hmax)           |
-| [Vinegar Syndrome](#vinegar-syndrome)         | [Extras](#extras)                       | [HD Bluray Tier 01](#hd-bluray-tier-01)   | [Max](#max)                |
-| [Theatrical Cut](#theatrical-cut)             |                                         | [HD Bluray Tier 02](#hd-bluray-tier-02)   | [Hulu](#hulu)              |
-| [IMAX](#imax)                                 |                                         | [HD Bluray Tier 03](#hd-bluray-tier-03)   | [Netflix](#nf)             |
-| [IMAX Enhanced](#imax-enhanced)               |                                         | [WEB Tier 01](#web-tier-01)               | [Peacock TV](#pcok)        |
-| [Open Matte](#open-matte)                     |                                         | [WEB Tier 02](#web-tier-02)               | [Paramount+](#pmtp)        |
-|                                               |                                         | [WEB Tier 03](#web-tier-03)               | [Movies Anywhere](#ma)     |
-|                                               |                                         |                                           | [Pathe Thuis](#pathe)      |
-|                                               |                                         |                                           | [Bravia Core](#bcore)      |
-|                                               |                                         |                                           | [Stan](#stan)              |
-|                                               |                                         |                                           | [Crave](#crav)             |
+| [4K Remaster](#4k-remaster)                   | [3D](#3d)                               | [Remux Tier 01](#remux-tier-01)           | [Amazon](#amzn)            |
+| [Criterion Collection](#criterion-collection) | [BR-DISK](#br-disk)                     | [Remux Tier 02](#remux-tier-02)           | [Apple TV+](#atvp)         |
+| [Hybrid](#hybrid)                             | [Extras](#extras)                       | [Remux Tier 03](#remux-tier-03)           | [BBC iPlayer (iP)](#ip)    |
+| [IMAX Enhanced](#imax-enhanced)               | [LQ](#lq)                               | [UHD Bluray Tier 01](#uhd-bluray-tier-01) | [Bravia Core](#bcore)      |
+| [IMAX](#imax)                                 | [LQ (Release Title)](#lq-release-title) | [UHD Bluray Tier 02](#uhd-bluray-tier-02) | [Crave](#crav)             |
+| [Masters of Cinema](#masters-of-cinema)       | [Upscaled](#upscaled)                   | [UHD Bluray Tier 03](#uhd-bluray-tier-03) | [Criterion Channel](#crit) |
+| [Open Matte](#open-matte)                     | [x265 (HD)](#x265-hd)                   | [HD Bluray Tier 01](#hd-bluray-tier-01)   | [Disney+](#dsnp)           |
+| [Remaster](#remaster)                         |                                         | [HD Bluray Tier 02](#hd-bluray-tier-02)   | [FOD](#fod)                |
+| [Special Edition](#special-edition)           |                                         | [HD Bluray Tier 03](#hd-bluray-tier-03)   | [HBO](#hbo)                |
+| [Theatrical Cut](#theatrical-cut)             |                                         | [WEB Tier 01](#web-tier-01)               | [HBO Max](#hmax)           |
+| [Vinegar Syndrome](#vinegar-syndrome)         |                                         | [WEB Tier 02](#web-tier-02)               | [Hulu](#hulu)              |
+|                                               |                                         | [WEB Tier 03](#web-tier-03)               | [Max](#max)                |
+|                                               |                                         |                                           | [Movies Anywhere](#ma)     |
+|                                               |                                         |                                           | [Netflix](#nf)             |
 |                                               |                                         |                                           | [OViD](#ovid)              |
-|                                               |                                         |                                           | [FOD](#fod)                |
+|                                               |                                         |                                           | [Pathe Thuis](#pathe)      |
+|                                               |                                         |                                           | [Peacock TV](#pcok)        |
+|                                               |                                         |                                           | [Paramount+](#pmtp)        |
+|                                               |                                         |                                           | [Stan](#stan)              |
 |                                               |                                         |                                           | [TVer](#tver)              |
 |                                               |                                         |                                           | [U-NEXT](#u-next)          |
 
 ------
 
-| Misc                           | Optional                            | French Audio Version          | French Source Groups                            |
-| ------------------------------ | ----------------------------------- | ----------------------------- | ----------------------------------------------- |
-| [Repack/Proper](#repackproper) | [Bad Dual Groups](#bad-dual-groups) | [Multi-French](#multi-french) | [FR Remux Tier 01](#fr-remux-tier-01)           |
-| [Repack2](#repack2)            | [DV (WEBDL)](#dv-webdl)             | [Multi-Audio](#multi-audio)   | [FR Remux Tier 02](#fr-remux-tier-02)           |
-| [Multi](#multi)                | [EVO (no WEBDL)](#evo-no-webdl)     | [French Audio](#french-audio) | [FR UHD Bluray Tier 01](#fr-uhd-bluray-tier-01) |
-| [x264](#x264)                  | [HDR10+ Boost](#hdr10plus-boost)    | [VFF](#vff)                   | [FR UHD Bluray Tier 02](#fr-uhd-bluray-tier-02) |
-| [x265](#x265)                  | [No-RlsGroup](#no-rlsgroup)         | [VOF](#vof)                   | [FR HD Bluray Tier 01](#fr-hd-bluray-tier-01)   |
-| [MPEG2](#mpeg2)                | [Obfuscated](#obfuscated)           | [VFI](#vfi)                   | [FR HD Bluray Tier 02](#fr-hd-bluray-tier-02)   |
-| [Dutch Groups](#dutch-groups)  | [Retags](#retags)                   | [VF2](#vf2)                   | [FR WEB Tier 01](#fr-web-tier-01)               |
-| [FreeLeech](#freeleech)        | [Scene](#scene)                     | [VFQ](#vfq)                   | [FR WEB Tier 02](#fr-web-tier-02)               |
-|                                | [x265 (no HDR/DV)](#x265-no-hdrdv)  | [VOQ](#voq)                   | [FR Scene Groups](#fr-scene-groups)             |
-|                                | [AV1](#av1)                         | [VQ](#vq)                     | [FR LQ](#fr-lq)                                 |
-|                                | [SDR](#sdr)                         | [VFB](#vfb)                   |                                                 |
-|                                | [SDR (no WEBDL)](#sdr-no-webdl)     | [VOSTFR](#vostfr)             |                                                 |
-|                                | [DV (Disk)](#dv-disk)               | [FanSUB](#fansub)             |                                                 |
-|                                | [Line/Mic Dubbed](#linemic-dubbed)  | [FastSUB](#fastsub)           |                                                 |
-|                                | [HFR](#hfr)                         |                               |                                                 |
-|                                | [VP9](#vp9)                         |                               |                                                 |
-|                                | [Internal](#internal)               |                               |                                                 |
+| Misc                           | Optional                               | French Audio Version          | French Source Groups                            |
+| ------------------------------ | -------------------------------------- | ----------------------------- | ----------------------------------------------- |
+| [Dutch Groups](#dutch-groups)  | [AV1](#av1)                            | [Multi-French](#multi-french) | [FR Remux Tier 01](#fr-remux-tier-01)           |
+| [FreeLeech](#freeleech)        | [Bad Dual Groups](#bad-dual-groups)    | [Multi-Audio](#multi-audio)   | [FR Remux Tier 02](#fr-remux-tier-02)           |
+| [MPEG2](#mpeg2)                | [DV (Disk)](#dv-disk)                  | [French Audio](#french-audio) | [FR UHD Bluray Tier 01](#fr-uhd-bluray-tier-01) |
+| [Multi](#multi)                | [DV (WEBDL)](#dv-webdl)                | [VFF](#vff)                   | [FR UHD Bluray Tier 02](#fr-uhd-bluray-tier-02) |
+| [Repack/Proper](#repackproper) | [DV HDR10+ Boost](#dv-hdr10plus-boost) | [VOF](#vof)                   | [FR HD Bluray Tier 01](#fr-hd-bluray-tier-01)   |
+| [Repack2](#repack2)            | [EVO (no WEBDL)](#evo-no-webdl)        | [VFI](#vfi)                   | [FR HD Bluray Tier 02](#fr-hd-bluray-tier-02)   |
+| [x264](#x264)                  | [HDR10+ Boost](#hdr10plus-boost)       | [VF2](#vf2)                   | [FR WEB Tier 01](#fr-web-tier-01)               |
+| [x265](#x265)                  | [HFR](#hfr)                            | [VFQ](#vfq)                   | [FR WEB Tier 02](#fr-web-tier-02)               |
+|                                | [Internal](#internal)                  | [VOQ](#voq)                   | [FR Scene Groups](#fr-scene-groups)             |
+|                                | [Line/Mic Dubbed](#linemic-dubbed)     | [VQ](#vq)                     | [FR LQ](#fr-lq)                                 |
+|                                | [No-RlsGroup](#no-rlsgroup)            | [VFB](#vfb)                   |                                                 |
+|                                | [Obfuscated](#obfuscated)              | [VOSTFR](#vostfr)             |                                                 |
+|                                | [Retags](#retags)                      | [FanSUB](#fansub)             |                                                 |
+|                                | [Scene](#scene)                        | [FastSUB](#fastsub)           |                                                 |
+|                                | [SDR (no WEBDL)](#sdr-no-webdl)        |                               |                                                 |
+|                                | [SDR](#sdr)                            |                               |                                                 |
+|                                | [VP9](#vp9)                            |                               |                                                 |
+|                                | [x265 (no HDR/DV)](#x265-no-hdrdv)     |                               |                                                 |
 
 ------
 
@@ -513,7 +515,7 @@ I also made 3 guides related to this one.
 
 <sub>Dolby Vision = DoVi = DV</sub>
 
-??? question "DV HDR10 - [Click to show/hide]"
+??? question "DV HDR10+ - [Click to show/hide]"
 
     Dolby Vision is a content mastering and delivery format similar to the HDR10 media profile.
 
@@ -1147,12 +1149,28 @@ I also made 3 guides related to this one.
 
 ??? question "HDR10+ Boost - [Click to show/hide]"
 
-    Optional (use this one only if you have a (Samsung) TV that supports HDR10+ and you don't have a Setup that supports DV or you prefer HDR10+.
+    Optional: use this one only if you have a (Samsung) TV that supports HDR10+ and you don't have a Setup that supports DV or you prefer HDR10+.
 
 ??? example "JSON - [Click to show/hide]"
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/radarr/cf/hdr10plus-boost.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### DV HDR10Plus Boost
+
+??? question "DV HDR10+ Boost - [Click to show/hide]"
+
+    Optional: use this one if you want to upgrade from DV HDR10 to DV HDR10+ to support the best of both worlds.
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/dv-hdr10plus-boost.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
@@ -1865,6 +1883,24 @@ I also made 3 guides related to this one.
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/radarr/cf/hulu.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup>
+
+------
+
+### IP
+
+<sub>BBC iPlayer</sub>
+
+??? question "BBC iPlayer - [Click to show/hide]"
+
+    [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/BBC_iPlayer){:target="_blank" rel="noopener noreferrer"}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/radarr/cf/ip.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup>
