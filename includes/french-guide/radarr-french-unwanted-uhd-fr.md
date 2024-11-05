@@ -1,4 +1,5 @@
 ??? abstract "Indésirable - [Cliquer pour afficher/masquer]"
+
     | Formats Personnalisés                                                                                   |                           Score                            | Trash ID                                    |
     | ------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------: | ------------------------------------------- |
     | [{{ radarr['cf']['br-disk']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#br-disk)           |  {{ radarr['cf']['br-disk']['trash_scores']['default'] }}  | {{ radarr['cf']['br-disk']['trash_id'] }}   |
@@ -8,7 +9,7 @@
     | [{{ radarr['cf']['upscaled']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#upscaled)         | {{ radarr['cf']['upscaled']['trash_scores']['default'] }}  | {{ radarr['cf']['upscaled']['trash_id'] }}  |
     | [{{ radarr['cf']['x265-hd']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#x265-hd) :warning: |  {{ radarr['cf']['x265-hd']['trash_scores']['default'] }}  | {{ radarr['cf']['x265-hd']['trash_id'] }}   |
 
-    ------
+    ---
 
     Description et objectifs
 
@@ -28,4 +29,4 @@
         - [{{ radarr['cf']['bad-dual-groups']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#bad-dual-groups) : ce dernier peut être sujet à controverse pour les personnes recherchant une version MULTi. Il est recommandé de ne pas l'utiliser.
         - [{{ radarr['cf']['scene']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#scene), il peut inclure des groupes Scene déjà dans le Format Personnalisé [{{ radarr['cf']['french-scene']['name'] }}](/Radarr/Radarr-collection-of-custom-formats/#fr-scene-groups). Qui est utilisé comme substitut afin d'augmenter les chances d'obtenir une version MULTi.
 
-        {! include-markdown "../../includes/cf/radarr-optional.md" !}
+        {! include-markdown "../../includes/cf/radarr-misc-optional.md" !}
